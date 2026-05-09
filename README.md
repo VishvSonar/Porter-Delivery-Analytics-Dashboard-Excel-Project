@@ -1,45 +1,57 @@
- Project Overview
+# Porter Delivery Dashboard | Excel Project
 
-Developed an interactive and professional Excel dashboard to analyze Porter delivery operations and performance metrics.
-The dashboard provides actionable insights into delivery efficiency, customer experience, and operational KPIs using dynamic visuals, pivot tables, slicers, and advanced Excel features.
+## Project Overview
 
- Key Dashboard Highlights
+In this project, I created an interactive Excel dashboard to analyze Porter delivery data and track important business and operational metrics. The main goal was to convert raw data into meaningful insights using Excel dashboards, pivot tables, charts, slicers, and KPI cards.
 
-✅ Total Orders Analysis
-✅ Average Delivery Time Tracking
-✅ Under 30-Min Delivery Performance
-✅ Average Order Value Insights
-✅ On-Time Delivery Rate
-✅ Order Cancellation Analysis
-✅ Revenue & Operational Metrics
-✅ Interactive Slicers & Filters
-✅ Fully Dynamic Pivot-Based Dashboard
+The dashboard helps in understanding delivery performance, customer experience, and overall operational efficiency in a simple and visually appealing way.
 
-Tools Used
-Microsoft Excel
+---
 
+## Project Objective
 
-📈 KPIs Included
+The objective of this project was to practice data analysis and dashboard creation in Excel by transforming raw delivery data into useful business insights and creating a professional-looking interactive dashboard.
 
-📦 Total Orders
-⏱ Avg Delivery Time
-✅ Under 30-Min Rate
-💰 Avg Order Value
-🚚 On-Time Delivery Rate
-❌ Cancellation Rate
-⭐ Customer Satisfaction Score
-📈 Revenue Insights
+---
 
-🎯 Objective
+## Dashboard Highlights
 
-The objective of this project was to transform raw delivery data into meaningful business insights and create a visually appealing dashboard for operational decision-making.
+* Total Orders Analysis
+* Average Delivery Time Tracking
+* Under 30-Min Delivery Performance
+* Average Order Value Analysis
+* On-Time Delivery Rate
+* Order Cancellation Analysis
+* Revenue & Performance Insights
+* Interactive Slicers and Filters
+* Dynamic Pivot-Based Dashboard
 
+---
 
-🔥 Project Outcome
+## Tools Used
 
-This dashboard helps stakeholders:
+* Microsoft Excel
 
+---
+
+## KPIs Included
+
+* Total Orders
+* Average Delivery Time
+* Under 30-Min Delivery Rate
+* Average Order Value
+* On-Time Delivery Rate
+* Cancellation Rate
+* Customer Satisfaction Score
+* Revenue Insights
+
+---
+
+## Project Outcome
+This dashboard helps stakeholders: 
 Monitor delivery performance
-Identify operational bottlenecks
-Improve customer satisfaction
+Identify operational bottlenecks 
+Improve customer satisfaction 
 Track business growth metrics effectively
+
+
